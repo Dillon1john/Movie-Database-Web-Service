@@ -1,2 +1,15 @@
 # Movie-Ratting-Web-Service
-Web service that lets users enter names of their favorite movies, provides a list taken from MovieDatabase API by parsing JSON, then redirects user to a page to rate movie and stores movies in list in order of rating score.
+Web service that lets users enter names of their favorite movies, provides a list taken from MovieDatabase API by parsing JSON, then redirects user to a page to rate movie. Once the user gives rating and submits form, the movie is then stored into a database using SQLAlchemy. The service then redirects the user to their movie list page that displays the movies in sorted order based on their rating.
+![Screenshot 2023-03-16 at 11 37 35 PM](https://user-images.githubusercontent.com/50587936/225806624-91aa67ee-3adc-4921-b3ce-181f975e6bb1.png)
+![Screenshot 2023-03-16 at 11 37 53 PM](https://user-images.githubusercontent.com/50587936/225806666-f93ef660-8e75-48f0-9f79-bef3ea456e3c.png)
+![Screenshot 2023-03-16 at 11 38 12 PM](https://user-images.githubusercontent.com/50587936/225806704-7435f0bb-a3c1-40c4-8fd1-8d908fef5aa5.png)
+![Screenshot 2023-03-16 at 11 39 49 PM](https://user-images.githubusercontent.com/50587936/225806882-63bdcb75-f7bf-4c56-9d9b-35d721a2b6e1.png)
+![Screenshot 2023-03-16 at 11 39 59 PM](https://user-images.githubusercontent.com/50587936/225806896-f034c92f-ffe9-4a1a-9264-80ba84868e04.png)
+![Screenshot 2023-03-16 at 11 41 20 PM](https://user-images.githubusercontent.com/50587936/225807089-6a7242d5-ddb9-45a6-9e94-20cd629e0988.png)
+![Screenshot 2023-03-16 at 11 41 39 PM](https://user-images.githubusercontent.com/50587936/225807132-f3fd629c-af9b-476a-8e3d-558372d683dc.png)
+![Screenshot 2023-03-16 at 11 41 48 PM](https://user-images.githubusercontent.com/50587936/225807144-e976cc5a-a96b-4f07-96ad-628183029a3f.png)
+![Screenshot 2023-03-16 at 11 42 26 PM](https://user-images.githubusercontent.com/50587936/225807214-ff313282-e12a-415d-8ebe-76277d67b652.png)
+![Screenshot 2023-03-16 at 11 43 14 PM](https://user-images.githubusercontent.com/50587936/225807338-6f7c47d4-4c42-4398-923b-d6ca19eb119b.png)
+![Screenshot 2023-03-16 at 11 43 24 PM](https://user-images.githubusercontent.com/50587936/225807365-3d245540-10c2-4c33-811e-6d4be3269911.png)
+![Screenshot 2023-03-16 at 11 43 50 PM](https://user-images.githubusercontent.com/50587936/225807402-2e060152-24eb-492b-9285-622bc0aa43a0.png)
+![Screenshot 2023-03-16 at 11 44 03 PM](https://user-images.githubusercontent.com/50587936/225807425-923efb57-3b69-4967-8ea0-17212efe6eb7.png)
