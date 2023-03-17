@@ -1,5 +1,5 @@
 # Movie-Ratting-Web-Service
-Web service that lets users enter names of their favorite movies, provides a list taken from MovieDatabase API by parsing JSON, then redirects user to a page to rate movie. Once the user gives rating and submits form, the movie is then stored into a database using SQLAlchemy. The service then redirects the user to their movie list page that displays the movies in sorted order based on their rating.
+Flask web service that lets users enter names of their favorite movies, provides a list taken from MovieDatabase API by parsing JSON, then redirects user to a page to rate movie. Once the user gives rating and submits form, the movie is then stored into a database using SQLAlchemy. The service then redirects the user to their movie list page that displays the movies in sorted order based on their rating.
 ![Screenshot 2023-03-16 at 11 37 35 PM](https://user-images.githubusercontent.com/50587936/225806624-91aa67ee-3adc-4921-b3ce-181f975e6bb1.png)
 ![Screenshot 2023-03-16 at 11 37 53 PM](https://user-images.githubusercontent.com/50587936/225806666-f93ef660-8e75-48f0-9f79-bef3ea456e3c.png)
 ![Screenshot 2023-03-16 at 11 38 12 PM](https://user-images.githubusercontent.com/50587936/225806704-7435f0bb-a3c1-40c4-8fd1-8d908fef5aa5.png)
